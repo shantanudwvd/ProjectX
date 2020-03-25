@@ -1,5 +1,5 @@
 Hey
-Team we will create our first PR
+Team we will create our first Pull Request
 
 The flow is something like this
 
@@ -11,4 +11,4 @@ update changes in local add commit
 
 push to personal cloud
 
-create a PR
+create a Pull Request
